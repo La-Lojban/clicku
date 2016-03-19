@@ -1,0 +1,27 @@
+* {
+    font-family: Baskerville;
+    line-height: 1.5em;
+}
+
+body {
+    margin: 0 auto;
+    padding: 3em;
+    max-width: 48em;
+    font-size: 20px;
+}
+
+h1 {
+    font-weight: 400;
+    padding: 1em;
+}
+
+li {
+    font-style: italic;
+    display: inline;
+    padding-right: 0.5em;
+}
+
+.tl {
+    display: block;
+    font-style: italic;
+}
